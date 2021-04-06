@@ -1,4 +1,4 @@
-package com.tournamentapi.tournament.controller;
+package com.tournamentapi.tournament.webController;
 
 import com.tournamentapi.tournament.model.Player;
 import com.tournamentapi.tournament.repository.PlayerRepository;
